@@ -2,10 +2,8 @@ README
 
 --ABOUT--
 		DATE: 09/26/2013
-		COURSE: CSCI-P538
-		YEAR: Fall 2013
-		DEVELOPERS: Prachi Shah(pracshah), Oliver Lewis(lewiso)
-		PROJECT: Lab 2: Socket Programming: netcat_part
+		DEVELOPER: Prachi Shah(pracshah)
+		PROJECT: Socket Programming: netcat_part
 --CONFIGURATION--
 		OPERATING SYSTEM: Ubuntu 12.04 or higher
 		RAM SIZE: 2 GB or higher
@@ -106,8 +104,6 @@ Client-side Compliation:
 		 > A specific output will be displayed in the bash window itself of the format:
 		
 --CREDITS--
-
-		1) p538 Lab Document.
 		2) http://www.cplusplus.com
 		3) http://www.askyb.com/cpp/openssl-hmac-hasing-example-in-cpp/
 
